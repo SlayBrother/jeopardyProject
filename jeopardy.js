@@ -1,4 +1,4 @@
-const baseURL = 'http://jservice.io/api/';
+const baseURL = 'https://jservice.io/api/';
 const numOfCategories = 6;
 const numOfClues = 5;
 let categories = [];
